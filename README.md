@@ -22,7 +22,11 @@ $ sudo apt install golang
 ```
 
 ## Running the server
-To run the server, follow these simple steps:
+To initialize the server, follow these simple steps:
 ```
-go run main.go
+./run_go_init.sh
+```
+After that, you use the following script.
+```
+./run_go.sh
 ```
